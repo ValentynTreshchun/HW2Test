@@ -1,6 +1,9 @@
 Now that the hotfix is applied, I can get back to fixing issue533
 this code supposedly fixes previous issue, should be committed
 
-issue 533 continued developement on branch main
-some code here and here
-and here final line
+issue 533 continued developement
+
+for (int i = 0, i <= 25, i++) {
+System.Out.Println("Please enter your email address: ");
+email = input.nextline();
+}
