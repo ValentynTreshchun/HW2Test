@@ -1,0 +1,2 @@
+Now that the hotfix is applied, I can get back to fixing issue533
+this code supposedly fixes previous issue, should be committed
